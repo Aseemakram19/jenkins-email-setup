@@ -1,1 +1,1 @@
-# jenkins-email-setup
+# jenkins-email-setups
